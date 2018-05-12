@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5166
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42506#Chronicles--1-of-6---The-Description-of-Britaine
 gutenberg_issued: '2013-04-11'
 gutenberg_type: Text
 identifiers:
