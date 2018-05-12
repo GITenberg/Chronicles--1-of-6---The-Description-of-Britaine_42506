@@ -1,0 +1,48 @@
+_repo: Chronicles--1-of-6---The-Description-of-Britaine_42506
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42506-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hooker, John
+    aliases:
+    - Hoker, Iohn
+    - Hooker, Iohn
+    - Vowell, John
+    - Hoker, John
+    - Vowel, Iohn
+    - Vowell, Iohn
+    deathdate: 1601
+    gutenberg_agent_id: '41719'
+    url: http://www.gutenberg.org/2009/agents/41719
+  - agent_name: Harrison, William
+    birthdate: 1534
+    deathdate: 1593
+    gutenberg_agent_id: '35928'
+    url: http://www.gutenberg.org/2009/agents/35928
+  - agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshead, Raphael
+    - Holynshed, Raphael
+    - Holinshed, Raphaell
+    - Holingshed, Raphael
+    - Holinshed, Ralph
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2013-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+title: 'Chronicles (1 of 6): The Description of Britaine'
+url: http://www.gutenberg.org/ebooks/42506
